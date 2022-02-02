@@ -1,0 +1,81 @@
+  PID TTY           TIME CMD
+    1 ??         8:12.46 /sbin/launchd
+   95 ??         5:14.79 /usr/libexec/logd
+   96 ??         0:16.78 /usr/libexec/UserEventAgent (System)
+   98 ??         0:03.22 /System/Library/PrivateFrameworks/Uninstall.framework/Resources/uninstalld
+   99 ??         3:25.61 /System/Library/Frameworks/CoreServices.framework/Versions/A/Frameworks/FSEvents.framework/Versions/A/Support/fseventsd
+  100 ??         0:22.43 /System/Library/PrivateFrameworks/MediaRemote.framework/Support/mediaremoted
+  101 ??         0:00.36 /System/Library/Frameworks/Metal.framework/Versions/A/XPCServices/MTLCompilerService.xpc/Contents/MacOS/MTLCompilerService
+  103 ??         3:15.20 /usr/sbin/systemstats --daemon
+  104 ??         0:40.50 /usr/libexec/configd
+  106 ??         1:29.45 /System/Library/CoreServices/powerd.bundle/powerd
+  107 ??         0:00.02 /usr/libexec/IOMFB_bics_daemon
+  110 ??         0:00.16 /usr/libexec/remoted
+  116 ??         0:03.64 /usr/libexec/watchdogd
+  120 ??         4:30.69 /System/Library/Frameworks/CoreServices.framework/Frameworks/Metadata.framework/Support/mds
+  122 ??         0:01.75 /usr/libexec/kernelmanagerd
+  123 ??         0:07.26 /usr/libexec/diskarbitrationd
+  127 ??         0:11.84 /usr/sbin/syslogd
+  130 ??         0:46.15 /usr/libexec/thermalmonitord
+  131 ??         1:05.10 /usr/local/kerio/vpnclient/kvpncsvc /usr/local/kerio/vpnclient
+  132 ??         2:43.27 /usr/libexec/opendirectoryd
+  133 ??         0:12.18 /System/Library/PrivateFrameworks/ApplePushService.framework/apsd
+  134 ??         0:00.17 /Library/PrivilegedHelperTools/com.docker.vmnetd
+  135 ??         0:58.58 /System/Library/CoreServices/launchservicesd
+  136 ??         0:04.27 /usr/libexec/timed
+  137 ??         0:00.45 /System/Library/PrivateFrameworks/MobileDevice.framework/Versions/A/Resources/usbmuxd -launchd
+  138 ??         0:08.30 /usr/sbin/securityd -i
+  139 ??         0:00.01 auditd -l
+  141 ??         1:15.04 /usr/libexec/locationd
+  143 ??         0:00.02 autofsd
+  144 ??         1:05.73 /usr/libexec/dasd
+  146 ??         0:10.17 /Library/Application Support/Checkpoint/Endpoint Connect/TracSrvWrapper
+  147 ??         1:27.48 /usr/sbin/distnoted daemon
+  151 ??         0:00.25 /System/Library/CoreServices/logind
+  152 ??         0:00.18 /System/Library/PrivateFrameworks/GenerationalStorage.framework/Versions/A/Support/revisiond
+  153 ??         0:00.03 /usr/sbin/KernelEventAgent
+  155 ??         1:18.43 /usr/sbin/bluetoothd
+  156 ??         1:35.13 /usr/sbin/notifyd
+  159 ??         7:36.15 /usr/libexec/corebrightnessd --launchd
+  160 ??         0:08.97 /usr/libexec/AirPlayXPCHelper
+  163 ??         0:49.48 /usr/sbin/cfprefsd daemon
+  164 ??         1:20.27 /usr/libexec/syspolicyd
+  165 ??       231:59.90 /System/Library/PrivateFrameworks/SkyLight.framework/Resources/WindowServer -daemon
+  167 ??         0:02.02 /System/Library/CoreServices/coreservicesd
+  169 ??         1:05.34 /usr/libexec/trustd
+  170 ??         1:18.77 /System/Library/PrivateFrameworks/CoreDuetContext.framework/Resources/contextstored
+  172 ??         4:56.16 /System/Library/CoreServices/loginwindow.app/Contents/MacOS/loginwindow console
+  183 ??         0:01.97 /System/Library/Frameworks/Security.framework/Versions/A/XPCServices/authd.xpc/Contents/MacOS/authd
+  191 ??         6:23.51 /usr/libexec/runningboardd
+  200 ??         0:09.04 /usr/sbin/distnoted agent
+  201 ??        69:53.05 /usr/sbin/coreaudiod
+  219 ??         0:07.17 /usr/sbin/distnoted agent
+  228 ??         0:18.56 /System/Library/PrivateFrameworks/CoreAnalytics.framework/Support/analyticsd
+  231 ??         0:06.98 /usr/sbin/distnoted agent
+  234 ??         1:10.84 /usr/libexec/symptomsd
+  236 ??         0:00.48 /usr/libexec/apfsd
+  237 ??         6:07.25 /usr/libexec/airportd
+  245 ??         0:01.81 /usr/libexec/nesessionmanager
+  247 ??         0:00.36 /usr/libexec/biokitaggdd
+  253 ??         0:12.72 /usr/libexec/lsd runAsRoot
+  260 ??        10:31.35 /usr/libexec/TouchBarServer
+  264 ??         0:00.21 /usr/libexec/diskmanagementd
+  267 ??         0:16.22 /usr/libexec/ApplicationFirewall/socketfilterfw
+  269 ??         1:16.95 /usr/sbin/mDNSResponder
+  270 ??         0:05.61 /System/Library/PrivateFrameworks/WirelessDiagnostics.framework/Support/awdd
+  272 ??         0:06.32 /System/Library/CoreServices/appleeventsd --server
+  277 ??         0:08.61 /usr/libexec/searchpartyd
+  283 ??         0:04.11 /usr/sbin/mDNSResponderHelper
+  285 ??         0:01.62 /usr/libexec/rosetta/oahd
+  288 ??         0:06.80 /usr/sbin/distnoted agent
+  290 ??         0:00.14 /System/Library/PrivateFrameworks/SystemStatusServer.framework/Support/systemstatusd
+  302 ??         0:04.20 /System/Library/DriverExtensions/com.apple.AppleUserHIDDrivers.dext/com.apple.AppleUserHIDDrivers com.apple.driverkit.AppleUserHIDDrivers 0x1000008ee com.apple.AppleUserHIDDrivers
+  306 ??         0:12.18 /usr/libexec/nsurlsessiond --privileged
+  307 ??         0:06.54 /usr/sbin/distnoted agent
+  319 ??         0:01.58 /System/Library/Frameworks/LocalAuthentication.framework/Support/coreauthd
+  320 ??         0:00.10 /System/Library/Frameworks/CryptoTokenKit.framework/ctkahp.bundle/Contents/MacOS/ctkahp -d
+  323 ??         0:06.19 /usr/sbin/distnoted agent
+  401 ??         0:06.13 /usr/sbin/distnoted agent
+  487 ??        11:46.29 /System/Library/Frameworks/CoreServices.framework/Frameworks/Metadata.framework/Versions/A/Support/mds_stores
+  490 ??         0:00.01 /System/Library/DriverExtensions/IOUserBluetoothSerialDriver.dext/IOUserBluetoothSerialDriver com.apple.IOUserBluetoothSerialDriver 0x100000983 com.apple.IOUserBluetoothSerialDriver
+  527 ??         0:06.20 /usr/sbin/distnoted agent
